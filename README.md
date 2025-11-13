@@ -1,20 +1,22 @@
-## Hi👋 I’m Jackson，a data analyst in China.
-    - 🔭 I’m currently studying Data Science and Big Data at Yang-En University. 
-    - 🌱 I’m currently learning data analysis
-    - ✨ I also obtained a Data Analyst certificate on Coursera.（https://coursera.org/verify/professional-cert/U2PE1DKGN8AK） 
-    - 📫 How to reach me: 2223930495@qq.com
-    - ⚡ My fun fact: Playing basketball，Playing guitar，and I also like listening hip-hop music.
-<!--
-**JacksonXue2004/JacksonXue2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm yiyu xue
 
-Here are some ideas to get you started:
+### data analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning data analysis 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **python、mysql and I also learn how to use tableau to build a beautiful and easy-understand chart.**
+
+- 📫 How to reach me **xue2223930194@icloud.com**
+
+- ⚡ Fun fact **playing basketball,playing guitar and listening hip-hop music.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/JacksonXue2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JacksonXue2004" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JacksonXue2004&show_icons=true&locale=en&layout=compact" alt="JacksonXue2004" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JacksonXue2004&show_icons=true&locale=en" alt="JacksonXue2004" /></p>
+
