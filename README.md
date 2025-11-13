@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **python、mysql and I also learn how to use tableau to build a beautiful and easy-understand chart.**
 
-- 📫 How to reach me **xue2223930194@icloud.com**
+- 📫 How to reach me **xue2223930495@icloud.com**
 
 - ⚡ Fun fact **playing basketball,playing guitar and listening hip-hop music.**
 
