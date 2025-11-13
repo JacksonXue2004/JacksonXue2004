@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi👋 I’m Jackson，a data analyst in China.
+    - 🔭 I’m currently studying Data Science and Big Data at Yang-En University. 
+    - 🌱 I’m currently learning data analysis
+    - ✨ I also obtained a Data Analyst certificate on Coursera.（https://coursera.org/verify/professional-cert/U2PE1DKGN8AK） 
+    - 📫 How to reach me: 2223930495@qq.com
+    - ⚡ My fun fact: Playing basketball，Playing guitar，and I also like listening hip-hop music.
 <!--
 **JacksonXue2004/JacksonXue2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
